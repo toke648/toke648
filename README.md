@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h1 align="center"> Hello! here is toke648! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1> 
 </head>
 
-## Markdwon
+<h2 align="center">Markdwon</h2>
 ### Practice
 Markdown[9] is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as an easy-to-read markup language.[9] Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.
 #### I can't imagine writing HTML in READMD.md
@@ -33,9 +33,13 @@ Markdown[9] is a lightweight markup language for creating formatted text using a
 </div>
 
 <div>
-  <h2>Caugh Caugh</h2>
-  <p>my project</p>
-  <h4>👀 I'm interesting in C# C Python Html Css Javascript Unityr</h4>
+  <h2 align="center">Caugh Caugh</h2>
+  <h3>Used programming language</h3>
+  <p>C C# Python Html+Css+js Git</p>
+  <h3>Build framework</h3>
+  <p>Unity Vscode Jupyter Pycharm Docker Mysql Node.js</p>
+
+  <h2 align="center">My Project</h2>
 </div>
 
 </body>
