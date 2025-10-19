@@ -17,12 +17,12 @@ Here are some ideas to get you started:
   <h1 align="center"> Hello! here is toke648! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"></h1> 
 </head>
 
-<h2 align="center">Markdwon</h2>
-### Practice
-Markdown[9] is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as an easy-to-read markup language.[9] Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.
-#### I can't imagine writing HTML in READMD.md
+![:name](https://api.moedog.org/count/@toke648?name=toke648&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 <body>
+
+<h2 align="left">没有什么一开始就是完美的，而是一个不断跌倒不断爬起的过程</h2>
+
 <div>
   <p>
     <a target="_blank">
@@ -31,8 +31,6 @@ Markdown[9] is a lightweight markup language for creating formatted text using a
     <img src="https://github.com/user-attachments/assets/278123fb-3308-4144-8d8f-f0bdb67e0af7" title="miku" alt="miku" width="#" height="300"/> 
   </p>
 </div>
-
-<h2 align="left">没有什么一开始就是完美的，而是一个不断跌倒不断爬起的过程</h2>
 
 <h2 align="left">Metrics</h2>
 <picture>
