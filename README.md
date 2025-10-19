@@ -26,7 +26,7 @@
 </div>
 
 #### Link
-- Blog: [Tokepsonの万事屋](gannia.top)、[www.cnblogs.com/tokepson](www.cnblogs.com/tokepson)
+- Blog: [Tokepson's のBlog](https://gannia.top/)、[Tokepsonの万事屋](https://www.cnblogs.com/tokepson)
 - QQ: 870790900
 
 
